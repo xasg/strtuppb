@@ -190,9 +190,9 @@
 .zetta-menu > li > ul ul,
 .zetta-menu .zm-multi-column,
 .zetta-menu .zm-multi-column > ul ul {
-  background-color: #21252b;
-  color: #b0bac2;
-}
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #5FA199;
+ }
 .zetta-menu > li > ul li > a,
 .zetta-menu > li > ul ul li > a,
 .zetta-menu .zm-multi-column li > a,
@@ -201,13 +201,13 @@
 .zetta-menu > li > ul ul li > a:visited,
 .zetta-menu .zm-multi-column li > a:visited,
 .zetta-menu .zm-multi-column > ul ul li > a:visited {
-  color: #b0bac2;
+  color: #5FA199;
 }
 .zetta-menu > li > ul li:hover,
 .zetta-menu > li > ul ul li:hover,
 .zetta-menu .zm-multi-column li:hover,
 .zetta-menu .zm-multi-column > ul ul li:hover {
-  background-color: #282c32;
+  background-color: #fff;
 }
 .zetta-menu > li > ul li:hover > a,
 .zetta-menu > li > ul ul li:hover > a,
@@ -217,7 +217,7 @@
 .zetta-menu > li > ul ul li:hover > a:visited,
 .zetta-menu .zm-multi-column li:hover > a:visited,
 .zetta-menu .zm-multi-column > ul ul li:hover > a:visited {
-  color: #b0bac2;
+color: #01c1c1;
 }
 .zetta-menu > li > ul,
 .zetta-menu > li > div.zm-multi-column {
